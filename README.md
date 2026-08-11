@@ -1,7 +1,16 @@
 # Mahmoud-Khamis
 # 💫 About Me:
-I am a Data Science student and aspiring Data Analyst passionate about transforming data into meaningful insights using Machine Learning, Deep Learning, and Data Visualization.<br><br>I have hands-on experience with Python, SQL, Power BI, and R, and I enjoy building end-to-end projects involving predictive modeling, dashboards, and data-driven decision making.<br><br>⸻<br><br>🚀 Interests<br><br>* Data Science & Machine Learning<br>* Deep Learning & Neural Networks<br>* Data Visualization & Business Intelligence<br>* Real-world problem solving using data
+I am a Data Science student and aspiring Data Analyst passionate about transforming data into meaningful insights. My expertise lies in Machine Learning, Natural Language Processing (NLP), and building Generative AI (RAG) applications.
 
+I have hands-on experience with Python, SQL, and Power BI, and I enjoy building end-to-end projects involving predictive modeling, LLM pipelines, and data-driven decision making.
+
+---
+
+🚀 **Interests**
+* Data Science & Machine Learning
+* Natural Language Processing (NLP) & LLMs
+* Retrieval-Augmented Generation (RAG) Systems
+* Data Visualization & Business Intelligence
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-khamis-b790a82b2)
